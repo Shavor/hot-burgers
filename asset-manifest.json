@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hot-burgers/static/css/main.334a49aa.chunk.css",
+    "main.js": "/hot-burgers/static/js/main.21bb707e.chunk.js",
+    "main.js.map": "/hot-burgers/static/js/main.21bb707e.chunk.js.map",
+    "runtime-main.js": "/hot-burgers/static/js/runtime-main.eb76173a.js",
+    "runtime-main.js.map": "/hot-burgers/static/js/runtime-main.eb76173a.js.map",
+    "static/js/2.8a12a16a.chunk.js": "/hot-burgers/static/js/2.8a12a16a.chunk.js",
+    "static/js/2.8a12a16a.chunk.js.map": "/hot-burgers/static/js/2.8a12a16a.chunk.js.map",
+    "index.html": "/hot-burgers/index.html",
+    "precache-manifest.a5af2f7dacd65d3ed4dbe7238f5703ea.js": "/hot-burgers/precache-manifest.a5af2f7dacd65d3ed4dbe7238f5703ea.js",
+    "service-worker.js": "/hot-burgers/service-worker.js",
+    "static/css/main.334a49aa.chunk.css.map": "/hot-burgers/static/css/main.334a49aa.chunk.css.map",
+    "static/media/style.css": "/hot-burgers/static/media/up.551b5c6b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb76173a.js",
+    "static/js/2.8a12a16a.chunk.js",
+    "static/css/main.334a49aa.chunk.css",
+    "static/js/main.21bb707e.chunk.js"
+  ]
+}
